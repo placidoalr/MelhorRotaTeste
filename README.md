@@ -20,3 +20,5 @@
        └── RouteTest.cs
 
   * Explique as decisões de design adotadas para a solução de forma simplificada e objetiva
+  Como não era permitido utilizar o algoritimo de DIJKSTRA, pesquisei alguns outros tipos de algoritimos que poderiam ser uteis, tendo isso em mente achei o Algoritmo de Bellman-Ford que pareceu fácil e útil no cenário proposto.
+  Utilizei também para testes unitários o MSTest
